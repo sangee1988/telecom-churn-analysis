@@ -8,7 +8,7 @@ Customer churn refers to when a customer (player, subscriber, user, etc.) ceases
 
 
 **Conclution**
-customers who have called once also have a high churn rate indicating their issue was not solved in the first attempt.So operator should work to improve the service call.
-International call charges are high as compare to others it's an obvious thing but that may be a cause for international plan customers to churn out.
+**customers who have called once also have a high churn rate indicating their issue was not solved in the first attempt.So **operator should work to improve the service call.
+**International call charges are high as compare to others it's an obvious thing but that may be a cause for international plan customers to churn out.
 Improve the voice mail quality.
 The  churn rate from a particular state may be due to the low coverage of the cellular network
